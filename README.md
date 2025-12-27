@@ -12,5 +12,29 @@ bright-pink earmuffs, ribbed white sweater and leggings, massive pink fluffy UGG
 Next to her lies the Grinch with realistic green fur, visibly miserable, arms crossed.
 He wears an oversized bright-pink puffer jacket and bright-pink beanie.
 ```
+---
 
+### 🛷 Сцена 2 — Катання на тюбінгу
+
+```
+A playful lifestyle Christmas photoshoot showing the Grinch and the female character
+using 100% appearance from the reference photo, sliding down a snowy curved slope
+on a bright inflatable snow tube.
+
+Captured on a 50mm lens at f/1.8, soft golden ambient lighting from festive park lamps,
+warm bokeh, shallow depth of field, expressive candid moment,
+premium lifestyle magazine quality, extremely detailed snow textures.
+```
+---
+
+### 🎄 Сцена 3 — Біля ялинки
+
+```
+A warm, cozy Christmas scene featuring the Grinch and the female character
+sitting together near a glowing Christmas tree with red and gold ornaments.
+
+Shot on a 50mm lens, soft warm lighting wrapping around faces,
+natural skin texture preserved, gentle grain,
+premium lifestyle magazine aesthetic, ultra-realistic rendering.
+```
 ---
