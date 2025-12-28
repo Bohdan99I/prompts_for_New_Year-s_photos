@@ -38,3 +38,17 @@ natural skin texture preserved, gentle grain,
 premium lifestyle magazine aesthetic, ultra-realistic rendering.
 ```
 ---
+
+### 🍪 Сцена 4 — Різдвяна випічка
+
+```
+A playful Christmas baking moment with the Grinch and the female character,
+both slightly covered in flour, preparing gingerbread cookies
+in a festive kitchen with garlands and warm glowing lights.
+
+Captured as if on iPhone 17 Pro Max in cinematic mode,
+realistic handheld feeling, soft depth separation,
+warm highlights, natural mobile photo aesthetic.
+```
+
+---
