@@ -52,3 +52,18 @@ warm highlights, natural mobile photo aesthetic.
 ```
 
 ---
+
+## 🏷 2. Промпти для генерації зображень для брендів
+
+### 🎁 Fashion-бренд як різдвяний подарунок
+
+```
+A "BRAND" fashion store made of white flowers in the middle of the street,
+decorated like a Christmas gift with large red ribbons and a giant bow.
+
+Soft snow, gentle snowfall, warm glowing holiday lights,
+Parisian building style, Architectural Digest quality,
+hyper realistic, volumetric light, magical holiday aesthetic.
+```
+
+---
