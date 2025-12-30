@@ -67,3 +67,13 @@ hyper realistic, volumetric light, magical holiday aesthetic.
 ```
 
 ---
+
+### ✨ Світлова ялинка
+
+```
+A white Christmas tree formed by light rays on a [COLOR] background.
+Glittering gold lines form the tree shape,
+elegant, minimalistic, festive atmosphere.
+```
+
+---
