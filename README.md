@@ -77,3 +77,13 @@ elegant, minimalistic, festive atmosphere.
 ```
 
 ---
+
+### 🗽 New York Christmas 1980s
+
+```
+Full body shot of a beautiful rich 1980s woman walking through Times Square at Christmas.
+Evening, snow on the ground, sunglasses on,
+Kodak film look, nostalgic Christmas lights.
+```
+
+---
