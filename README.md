@@ -87,3 +87,13 @@ Kodak film look, nostalgic Christmas lights.
 ```
 
 ---
+
+### ⌨️ Jelly Christmas Keyboard
+
+```
+Close-up studio photo of a Christmas-themed jelly keyboard.
+Keycaps made of Christmas trees, snowmen, gingerbread men.
+Soft studio lighting, vibrant realistic colors,
+playful, whimsical holiday mood.
+```
+---
