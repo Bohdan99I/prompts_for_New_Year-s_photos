@@ -97,3 +97,14 @@ Soft studio lighting, vibrant realistic colors,
 playful, whimsical holiday mood.
 ```
 ---
+
+### 🦊 Disney-style winter character
+
+```
+Anthropomorphic fox (Nick Wilde style) leaning on a snow-covered bridge.
+Winter city background, falling snow,
+Disney animated movie style, cinematic composition,
+highly detailed fur textures, 8K rendering.
+```
+
+---
