@@ -108,3 +108,13 @@ highly detailed fur textures, 8K rendering.
 ```
 
 ---
+### 🔤 Christmas typography
+
+```
+Make the word 'WORD' in a Christmas concept.
+3D knitted letters, Disney Pixar style,
+white background, snow piled around,
+soft festive lighting.
+```
+
+---
