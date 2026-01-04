@@ -118,3 +118,25 @@ soft festive lighting.
 ```
 
 ---
+## 🧪 Секретні інгредієнти ефективного промпта
+
+Щоб твої промпти працювали максимально ефективно, додавай:
+
+1. **Суб’єкт** — що або хто на зображенні  
+   _a young entrepreneur, a skincare jar, a running shoe_
+
+2. **Дія** — що відбувається  
+   _running, laughing, captured mid-air_
+
+3. **Стиль** — атмосфера  
+   _professional, high-fashion, surreal, cinematic_
+
+4. **Освітлення** — світло та тіні  
+   _soft key light, dramatic natural light, volumetric fog_
+
+5. **Технічні деталі** — як знято  
+   _35mm lens, cinematic lighting, hyper-realistic, high resolution_
+
+---
+
+✨ **Експериментуй, комбінуй та створюй унікальний новорічний AI-контент!**
