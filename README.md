@@ -140,3 +140,7 @@ soft festive lighting.
 ---
 
 ✨ **Експериментуй, комбінуй та створюй унікальний новорічний AI-контент!**
+
+---
+
+🔗 Корисне посилання AI-agent: [prompts](https://tally.so/r/Gx6MBe)
