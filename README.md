@@ -50,7 +50,6 @@ Captured as if on iPhone 17 Pro Max in cinematic mode,
 realistic handheld feeling, soft depth separation,
 warm highlights, natural mobile photo aesthetic.
 ```
-
 ---
 
 ## 🏷 2. Промпти для генерації зображень для брендів
@@ -65,7 +64,6 @@ Soft snow, gentle snowfall, warm glowing holiday lights,
 Parisian building style, Architectural Digest quality,
 hyper realistic, volumetric light, magical holiday aesthetic.
 ```
-
 ---
 
 ### ✨ Світлова ялинка
@@ -75,7 +73,6 @@ A white Christmas tree formed by light rays on a [COLOR] background.
 Glittering gold lines form the tree shape,
 elegant, minimalistic, festive atmosphere.
 ```
-
 ---
 
 ### 🗽 New York Christmas 1980s
@@ -85,7 +82,6 @@ Full body shot of a beautiful rich 1980s woman walking through Times Square at C
 Evening, snow on the ground, sunglasses on,
 Kodak film look, nostalgic Christmas lights.
 ```
-
 ---
 
 ### ⌨️ Jelly Christmas Keyboard
@@ -106,7 +102,6 @@ Winter city background, falling snow,
 Disney animated movie style, cinematic composition,
 highly detailed fur textures, 8K rendering.
 ```
-
 ---
 ### 🔤 Christmas typography
 
@@ -116,7 +111,6 @@ Make the word 'WORD' in a Christmas concept.
 white background, snow piled around,
 soft festive lighting.
 ```
-
 ---
 ## 🧪 Секретні інгредієнти ефективного промпта
 
